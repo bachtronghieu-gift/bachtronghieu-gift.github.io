@@ -6,7 +6,7 @@
 body {
     font-family: font, GillSans, Calibri, Trebuchet, sans-serif;
     background-size: cover;
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 
 * {
